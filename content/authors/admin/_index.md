@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Sanji
+title: my profile
 
 # Name pronunciation (optional)
-name_pronunciation: Sanji
+name_pronunciation: jembady
 
 # Full name (for SEO)
 first_name: Ihsan
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: EXP, ROAM, MAGE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -52,17 +52,17 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: S1 SOFTWARE ENGINERING
+    institution: ITESA
+    date_start: 2022-08-018
+    date_end: 2026-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Semarang
+    institution: Muhammadiyah institute of Technology and statistic
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: NGALIYAN
+    institution: Muhammadiyah institute of Technology and statistic
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -84,7 +84,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Student
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -130,24 +130,24 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: gaming
         description: ''
         percent: 80
-        icon: camera
+        icon: laptop
+      - name: waching-movie
+        description: ''
+        percent: 80
+        icon: cinema
 
 languages:
   - name: English
+    percent: 30
+  - name: Arabic
+    percent: 50
+  - name: indonesian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
