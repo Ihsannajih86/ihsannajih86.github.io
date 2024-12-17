@@ -1,9 +1,9 @@
 ---
 # Display name
-title: my profile
+title: Sanji
 
 # Name pronunciation (optional)
-name_pronunciation: jembady
+name_pronunciation: Jembady
 
 # Full name (for SEO)
 first_name: Ihsan
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: EXP, ROAM, MAGE
+role: EXP, ROAM, MID
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -52,18 +52,18 @@ interests:
   - Information Retrieval
 
 education:
-  - area: S1 SOFTWARE ENGINERING
-    institution: ITESA
-    date_start: 2022-08-018
-    date_end: 2026-12-31
+  - area: Ngaliyan
+    institution: Muhammadiyah Institute of statistic and Technology
+    date_start: 2022-01-01
+    date_end: 2024-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      sedang budrek kuliah
     button:
-      text: 'Read Thesis'
+      text: 'mumet coding'
       url: 'https://example.com'
-  - area: Semarang
-    institution: Muhammadiyah institute of Technology and statistic
-    date_start: 2016-01-01
+  - area: mijen
+    institution: M.A Baitussalam
+    date_start: 2022-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: NGALIYAN
-    institution: Muhammadiyah institute of Technology and statistic
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Mijen
+    institution: Mts. Baitussalam
+    date_start: 2017-01-01
+    date_end: 2019-12-31
     summary: |
       GPA: 3.4/4.0
       
@@ -84,7 +84,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Student
+  - position: Mahasiswa Semester 3
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -130,24 +130,24 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 70
+        percent: 60
         icon: person-simple-walk
-      - name: gaming
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
         description: ''
         percent: 80
-        icon: laptop
-      - name: waching-movie
-        description: ''
-        percent: 80
-        icon: cinema
+        icon: camera
 
 languages:
-  - name: English
-    percent: 30
-  - name: Arabic
-    percent: 50
-  - name: indonesian
+  - name: Indonesian
     percent: 100
+  - name: English
+    percent: 50
+  - name: Arabic
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+mumet.
