@@ -3,7 +3,7 @@
 title: Sanji
 
 # Name pronunciation (optional)
-name_pronunciation: Jembady
+name_pronunciation: Jembadi
 
 # Full name (for SEO)
 first_name: Ihsan
