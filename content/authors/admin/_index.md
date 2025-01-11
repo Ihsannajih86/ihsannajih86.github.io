@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Gaming
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Traveling
 
 education:
   - area: Ngaliyan
