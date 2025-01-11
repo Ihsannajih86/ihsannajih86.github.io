@@ -132,14 +132,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Gaming
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: console
+      - name: traveling
         description: ''
         percent: 80
-        icon: camera
+        icon: motorcycle
 
 languages:
   - name: Indonesian
@@ -183,4 +183,8 @@ awards:
 
 ## About Me
 
-mumet.
+Halo! Nama saya [Nama Anda], mahasiswa yang sedang menempuh pendidikan di [nama universitas atau jurusan Anda]. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang mengeksplorasi berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
+
+Saya juga suka jalan-jalan untuk menjelajahi tempat-tempat baru, mencicipi makanan khas, dan menemukan pengalaman seru di luar rutinitas sehari-hari. Bagi saya, keseimbangan antara akademik dan hobi sangat penting untuk menjaga semangat belajar dan hidup.
+
+Selain itu, saya aktif dalam beberapa organisasi di kampus. Menjadi bagian dari organisasi memberikan saya kesempatan untuk mengembangkan keterampilan kepemimpinan, kerjasama tim, dan berkontribusi positif dalam lingkungan sekitar. Melalui berbagai kegiatan, saya belajar banyak tentang manajemen waktu, berkomunikasi efektif, dan beradaptasi dengan berbagai situasi..
