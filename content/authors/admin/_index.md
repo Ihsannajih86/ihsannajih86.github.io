@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Sanji
+title: Muhammad Ihsan Najih Amani 
 
 # Name pronunciation (optional)
-name_pronunciation: Jembady
+name_pronunciation:  Ihsan 
 
 # Full name (for SEO)
 first_name: Ihsan
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: EXP, ROAM, MID
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,12 +47,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - gaming
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Traveling
 
 education:
-  - area: Ngaliyan
+  - area: S1 
     institution: Muhammadiyah Institute of statistic and Technology
     date_start: 2022-01-01
     date_end: 2024-12-31
@@ -95,7 +95,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Software Engineer
     company_name: X
     company_url: ''
     company_logo: ''
@@ -132,14 +132,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: gaming
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: Console
+      - name: Race
         description: ''
         percent: 80
-        icon: camera
+        icon: Motorcycle
 
 languages:
   - name: Indonesian
@@ -183,4 +183,9 @@ awards:
 
 ## About Me
 
-mumet.
+Halo! Nama saya Muhammad Ihsan Najih Amani Biasa dipangggil Ihsan, saya mahasiswa yang sedang menempuh pendidikan di Institute teknologi statistic Muhammadiyah Semarang, Program Studi Rekayasa Perangkat Lunak. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang Menghabiskan waktu dengan bermain berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
+
+Saya juga suka jalan-jalan untuk menjelajahi tempat-tempat baru, mencicipi makanan khas, dan menemukan pengalaman seru di luar rutinitas sehari-hari. Bagi saya, keseimbangan antara akademik dan hobi sangat penting untuk menjaga semangat belajar dan hidup.
+
+Selain itu, saya aktif dalam beberapa organisasi di kampus. Menjadi bagian dari organisasi memberikan saya kesempatan untuk mengembangkan keterampilan kepemimpinan, kerjasama tim, dan berkontribusi positif dalam lingkungan sekitar. Melalui berbagai kegiatan, saya belajar banyak tentang manajemen waktu, berkomunikasi efektif, dan beradaptasi dengan berbagai situasi.
+
