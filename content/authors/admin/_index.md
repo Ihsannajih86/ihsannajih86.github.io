@@ -48,16 +48,12 @@ profiles:
 
 
 interests:
-<<<<<<< HEAD
-  - gaming
-=======
   - Gaming
->>>>>>> 7ebd387bdcd41623c5e670536b664369c99a8ceb
   - Artificial Intelligence
   - Traveling
 
 education:
-  - area: S1 
+  - area: S1 Rekayasa Perangkat Lunak
     institution: Muhammadiyah Institute of statistic and Technology
     date_start: 2022-01-01
     date_end: 2024-12-31
@@ -66,7 +62,7 @@ education:
     button:
       text: 'mumet coding'
       url: https://www.w3schools.com/
-  - area: mijen
+  - area: Peminatan IPA
     institution: M.A Baitussalam
     date_start: 2022-01-01
     date_end: 2020-12-31
@@ -77,7 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Mijen
+  - area: Peminatan IPA
     institution: Mts. Baitussalam
     date_start: 2017-01-01
     date_end: 2019-12-31
@@ -137,7 +133,6 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-<<<<<<< HEAD
       - name: gaming
         description: ''
         percent: 100
@@ -146,16 +141,6 @@ skills:
         description: ''
         percent: 80
         icon: Motorcycle
-=======
-      - name: Gaming
-        description: ''
-        percent: 100
-        icon: console
-      - name: traveling
-        description: ''
-        percent: 80
-        icon: motorcycle
->>>>>>> 7ebd387bdcd41623c5e670536b664369c99a8ceb
 
 languages:
   - name: Indonesian
@@ -199,17 +184,9 @@ awards:
 
 ## Tentang saya
 
-<<<<<<< HEAD
 Halo! Nama saya Muhammad Ihsan Najih Amani Biasa dipangggil Ihsan, saya mahasiswa yang sedang menempuh pendidikan di Institute teknologi statistic Muhammadiyah Semarang, Program Studi Rekayasa Perangkat Lunak. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang Menghabiskan waktu dengan bermain berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
 
 Saya juga suka jalan-jalan untuk menjelajahi tempat-tempat baru, mencicipi makanan khas, dan menemukan pengalaman seru di luar rutinitas sehari-hari. Bagi saya, keseimbangan antara akademik dan hobi sangat penting untuk menjaga semangat belajar dan hidup.
 
 Selain itu, saya aktif dalam beberapa organisasi di kampus. Menjadi bagian dari organisasi memberikan saya kesempatan untuk mengembangkan keterampilan kepemimpinan, kerjasama tim, dan berkontribusi positif dalam lingkungan sekitar. Melalui berbagai kegiatan, saya belajar banyak tentang manajemen waktu, berkomunikasi efektif, dan beradaptasi dengan berbagai situasi.
 
-=======
-Halo! Nama saya Muhammad Ihsan Najih Amani, mahasiswa yang sedang menempuh pendidikan di Institut Teknologi Statistika Dan Bisnis Muhammadiyah Semarang, Fakultas Tehnik Informatika, Jurusan Rekayasa Perangkat Lunak. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang mengeksplorasi berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
-
-Saya juga suka jalan-jalan untuk menjelajahi tempat-tempat baru, mencicipi makanan khas, dan menemukan pengalaman seru di luar rutinitas sehari-hari. Bagi saya, keseimbangan antara akademik dan hobi sangat penting untuk menjaga semangat belajar dan hidup.
-
-Selain itu, saya aktif dalam beberapa organisasi di kampus. Menjadi bagian dari organisasi memberikan saya kesempatan untuk mengembangkan keterampilan kepemimpinan, kerjasama tim, dan berkontribusi positif dalam lingkungan sekitar. Melalui berbagai kegiatan, saya belajar banyak tentang manajemen waktu, berkomunikasi efektif, dan beradaptasi dengan berbagai situasi..
->>>>>>> 7ebd387bdcd41623c5e670536b664369c99a8ceb
