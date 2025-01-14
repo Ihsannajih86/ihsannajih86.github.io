@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Sanji
+title: Muhammad Ihsan Najih Amani
 
 # Name pronunciation (optional)
-name_pronunciation: Jembady
+name_pronunciation: Nama
 
 # Full name (for SEO)
 first_name: Ihsan
@@ -39,12 +39,7 @@ profiles:
     url: https://www.instagram.com/ihsannajih86/
   - icon: brands/github
     url: https://github.com/Ihsannajih86
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+
 
 interests:
   - Gaming
