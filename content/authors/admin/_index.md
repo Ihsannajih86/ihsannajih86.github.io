@@ -3,7 +3,7 @@
 title: Muhammad Ihsan Najih Amani
 
 # Name pronunciation (optional)
-name_pronunciation: Nama
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ihsan
@@ -24,9 +24,8 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
+  - name: MUHAMMADIYAH
+    url: https://muhammadiyah.or.id/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -55,7 +54,7 @@ education:
       sedang budrek kuliah
     button:
       text: 'mumet coding'
-      url: 'https://example.com'
+      url: https://www.w3schools.com/
   - area: mijen
     institution: M.A Baitussalam
     date_start: 2022-01-01
@@ -109,11 +108,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learnig
         description: ''
-        percent: 100
+        percent: 50
         icon: chart-bar
       - name: SQL
         description: ''
@@ -176,9 +175,9 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Tentang saya
 
-Halo! Nama saya [Nama Anda], mahasiswa yang sedang menempuh pendidikan di [nama universitas atau jurusan Anda]. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang mengeksplorasi berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
+Halo! Nama saya Muhammad Ihsan Najih Amani, mahasiswa yang sedang menempuh pendidikan di Institut Teknologi Statistika Dan Bisnis Muhammadiyah Semarang, Fakultas Tehnik Informatika, Jurusan Rekayasa Perangkat Lunak. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang mengeksplorasi berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
 
 Saya juga suka jalan-jalan untuk menjelajahi tempat-tempat baru, mencicipi makanan khas, dan menemukan pengalaman seru di luar rutinitas sehari-hari. Bagi saya, keseimbangan antara akademik dan hobi sangat penting untuk menjaga semangat belajar dan hidup.
 
