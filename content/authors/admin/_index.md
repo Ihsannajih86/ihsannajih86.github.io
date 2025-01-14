@@ -1,9 +1,16 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: Muhammad Ihsan Najih Amani 
 
 # Name pronunciation (optional)
 name_pronunciation:  Ihsan 
+=======
+title: Muhammad Ihsan Najih Amani
+
+# Name pronunciation (optional)
+name_pronunciation: 
+>>>>>>> 7ebd387bdcd41623c5e670536b664369c99a8ceb
 
 # Full name (for SEO)
 first_name: Ihsan
@@ -24,30 +31,28 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
+  - name: MUHAMMADIYAH
+    url: https://muhammadiyah.or.id/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:amanyalsrogowy@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ihsannajih86/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/Ihsannajih86
+
 
 interests:
+<<<<<<< HEAD
   - gaming
+=======
+  - Gaming
+>>>>>>> 7ebd387bdcd41623c5e670536b664369c99a8ceb
   - Artificial Intelligence
   - Traveling
 
@@ -60,7 +65,7 @@ education:
       sedang budrek kuliah
     button:
       text: 'mumet coding'
-      url: 'https://example.com'
+      url: https://www.w3schools.com/
   - area: mijen
     institution: M.A Baitussalam
     date_start: 2022-01-01
@@ -114,11 +119,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learnig
         description: ''
-        percent: 100
+        percent: 50
         icon: chart-bar
       - name: SQL
         description: ''
@@ -132,6 +137,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
+<<<<<<< HEAD
       - name: gaming
         description: ''
         percent: 100
@@ -140,6 +146,16 @@ skills:
         description: ''
         percent: 80
         icon: Motorcycle
+=======
+      - name: Gaming
+        description: ''
+        percent: 100
+        icon: console
+      - name: traveling
+        description: ''
+        percent: 80
+        icon: motorcycle
+>>>>>>> 7ebd387bdcd41623c5e670536b664369c99a8ceb
 
 languages:
   - name: Indonesian
@@ -181,11 +197,19 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Tentang saya
 
+<<<<<<< HEAD
 Halo! Nama saya Muhammad Ihsan Najih Amani Biasa dipangggil Ihsan, saya mahasiswa yang sedang menempuh pendidikan di Institute teknologi statistic Muhammadiyah Semarang, Program Studi Rekayasa Perangkat Lunak. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang Menghabiskan waktu dengan bermain berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
 
 Saya juga suka jalan-jalan untuk menjelajahi tempat-tempat baru, mencicipi makanan khas, dan menemukan pengalaman seru di luar rutinitas sehari-hari. Bagi saya, keseimbangan antara akademik dan hobi sangat penting untuk menjaga semangat belajar dan hidup.
 
 Selain itu, saya aktif dalam beberapa organisasi di kampus. Menjadi bagian dari organisasi memberikan saya kesempatan untuk mengembangkan keterampilan kepemimpinan, kerjasama tim, dan berkontribusi positif dalam lingkungan sekitar. Melalui berbagai kegiatan, saya belajar banyak tentang manajemen waktu, berkomunikasi efektif, dan beradaptasi dengan berbagai situasi.
 
+=======
+Halo! Nama saya Muhammad Ihsan Najih Amani, mahasiswa yang sedang menempuh pendidikan di Institut Teknologi Statistika Dan Bisnis Muhammadiyah Semarang, Fakultas Tehnik Informatika, Jurusan Rekayasa Perangkat Lunak. Saya memiliki ketertarikan besar dalam dunia teknologi dan gaming. Di waktu luang, saya senang mengeksplorasi berbagai jenis game dan mengikuti perkembangan terbaru dalam industri ini.
+
+Saya juga suka jalan-jalan untuk menjelajahi tempat-tempat baru, mencicipi makanan khas, dan menemukan pengalaman seru di luar rutinitas sehari-hari. Bagi saya, keseimbangan antara akademik dan hobi sangat penting untuk menjaga semangat belajar dan hidup.
+
+Selain itu, saya aktif dalam beberapa organisasi di kampus. Menjadi bagian dari organisasi memberikan saya kesempatan untuk mengembangkan keterampilan kepemimpinan, kerjasama tim, dan berkontribusi positif dalam lingkungan sekitar. Melalui berbagai kegiatan, saya belajar banyak tentang manajemen waktu, berkomunikasi efektif, dan beradaptasi dengan berbagai situasi..
+>>>>>>> 7ebd387bdcd41623c5e670536b664369c99a8ceb
